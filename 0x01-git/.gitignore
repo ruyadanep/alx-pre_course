@@ -1,0 +1,8 @@
+# ignore all .md file
+!README.md
+/bash/98
+/bash/alx
+/bash/school
+/c/c_is_fun.c
+
+
