@@ -1,8 +1,12 @@
-# ignore all .md file
-!README.md
-/bash/98
-/bash/alx
-/bash/school
-/c/c_is_fun.c
+# Built application files
+*~
+*.apk
+*.aar
+*.ap_
+*.aab
 
+# Files for the ART/Dalvik VM
+*.dex
 
+# Java class files
+*.class
